@@ -1,0 +1,4 @@
+com/Pages/GetLoan.class
+com/CucumberRunner/AbstractMain.class
+com/StepDef/GetLoanStepDef.class
+com/CucumberRunner/TestRunner.class
